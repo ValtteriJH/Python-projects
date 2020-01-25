@@ -2,7 +2,7 @@
 Poker night at TUT
 Valtteri Huhdankoski 283386
 TTY 22:08:19
-A simple standalone graphic poker game (training) simulator with the same rules that apply at a casino. 
+A simple standalone graphic poker game (training) simulator with the same rules that apply at a casino. Access AI player by typing AI as a player name.
 
 Tähtään skaalautuvan projektin pisteisiin. Pelin ohjeet ilmestyvät ikkunaan kun käynnistät ohjelman, ja käsien vahvuudet
 selviävät kun klikkaat "Ranking of poker hands" nappia.
